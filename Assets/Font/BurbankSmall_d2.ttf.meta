@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: d1bd69beedd241f593bba4d9680d5b68
+timeCreated: 1689574224
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 1
+  characterPadding: 0
+  includeFontData: 1
+  fontName: "BurbankSmall"
+  fontNames:
+  - cpBurbankSmall
+  fallbackFontReferences: []
+  customCharacters:
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData:
+  assetBundleName: 
+  assetBundleVariant: 

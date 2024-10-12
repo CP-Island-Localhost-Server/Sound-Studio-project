@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: e3e52e131a4a4b2984bf2e64fdaddf3a
+timeCreated: 1689574224
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 1
+  characterPadding: 0
+  includeFontData: 1
+  fontName: "ProximaNova-Regular"
+  fontNames:
+  - cpBurbankSmall
+  fallbackFontReferences: []
+  customCharacters:
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData:
+  assetBundleName: 
+  assetBundleVariant: 

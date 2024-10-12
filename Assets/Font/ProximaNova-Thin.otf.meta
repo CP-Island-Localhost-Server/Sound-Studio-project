@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 235070d3079a4242a2368389ab273d6f
+timeCreated: 1689574162
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 1
+  characterPadding: 0
+  includeFontData: 1
+  fontName: "ProximaNova-Thin"
+  fontNames:
+  - Proxima Nova
+  fallbackFontReferences: []
+  customCharacters:
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData:
+  assetBundleName: 
+  assetBundleVariant: 

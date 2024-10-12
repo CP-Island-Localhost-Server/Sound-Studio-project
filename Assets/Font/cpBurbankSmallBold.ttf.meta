@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: e3cfd0a347874d63b0d4a5e5edb42b75
+timeCreated: 1689574225
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 1
+  characterPadding: 0
+  includeFontData: 1
+  fontName: "cpBurbankSmallBold"
+  fontNames:
+  - cpBurbankSmallBold
+  fallbackFontReferences: []
+  customCharacters:
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData:
+  assetBundleName: 
+  assetBundleVariant: 

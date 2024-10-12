@@ -1,0 +1,53 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/soundstudio/Scenes/AndroidLoaderScene.unity
+    guid: d9b99e8bf3ed46e4a9d3e2d223599de3
+  - enabled: 1
+    path: Assets/soundstudio/Scenes/SplashScreen.unity
+    guid: b1e1206b08642774a81a44b262209c19
+  - enabled: 1
+    path: Assets/soundstudio/Scenes/SizzleVideo.unity
+    guid: a39b50ddf92b67243898f7c8fa10ef40
+  - enabled: 1
+    path: Assets/soundstudio/Scenes/Main.unity
+    guid: f919b501e9b0d4248a82a83432a4f0dc
+  - enabled: 1
+    path: Assets/soundstudio/Scenes/Genres.unity
+    guid: 2dfa6a4c310a75f478ca91d84a8f38f6
+  - enabled: 1
+    path: Assets/soundstudio/Scenes/MixingBoard.unity
+    guid: afc257834c171a24d9ef0ef5355a770b
+  - enabled: 1
+    path: Assets/soundstudio/Scenes/Settings.unity
+    guid: 4966fac7d8da0dc4ebba82bf1b20a3fd
+  - enabled: 1
+    path: Assets/soundstudio/Scenes/Songs.unity
+    guid: 429b9855453c43b46b09931c14530fc4
+  - enabled: 1
+    path: Assets/soundstudio/Scenes/StartScreen.unity
+    guid: 127689c2ad563fc47aaf11b72d88e81d
+  - enabled: 1
+    path: Assets/soundstudio/Scenes/Referral.unity
+    guid: d6a605fb79a385741a6a34e1f39ab1cb
+  - enabled: 1
+    path: Assets/soundstudio/Scenes/Store.unity
+    guid: 8d92b1b44ca5b9247891ae1b0c48089e
+  - enabled: 1
+    path: Assets/soundstudio/Scenes/Radio.unity
+    guid: 4a6127c0d740e9049b3dff01dd1938ce
+  m_configObjects:
+    com.unity.adaptiveperformance.google.android.provider_settings: {fileID: 11400000,
+      guid: 2b8756272a52d7746a40d5de24a8f091, type: 2}
+    com.unity.adaptiveperformance.loader_settings: {fileID: 11400000, guid: 1ed2fe6569044444e8959e72c4faf011,
+      type: 2}
+    com.unity.adaptiveperformance.samsung.android.provider_settings: {fileID: 11400000,
+      guid: 9b331d03cded1c7439ccbe5350ebabad, type: 2}
+    com.unity.adaptiveperformance.simulator.provider_settings: {fileID: 11400000,
+      guid: c716dd1a406fdb743a6c7b20f8b57dd0, type: 2}
+  m_UseUCBPForAssetBundles: 0

@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 506fc1364ba44e82b573bf72df5bedd4
+timeCreated: 1689574162
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 1
+  characterPadding: 0
+  includeFontData: 1
+  fontName: "ProximaNova-Extrabld"
+  fontNames:
+  - Proxima Nova
+  fallbackFontReferences: []
+  customCharacters:
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData:
+  assetBundleName: 
+  assetBundleVariant: 

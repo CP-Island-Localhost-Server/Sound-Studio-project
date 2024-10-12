@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 85a50c69d7f441758b8901bec0d6695a
+timeCreated: 1689574161
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 1
+  characterPadding: 0
+  includeFontData: 1
+  fontName: "ProximaNova-Semibold"
+  fontNames:
+  - Proxima Nova
+  fallbackFontReferences: []
+  customCharacters:
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData:
+  assetBundleName: 
+  assetBundleVariant: 

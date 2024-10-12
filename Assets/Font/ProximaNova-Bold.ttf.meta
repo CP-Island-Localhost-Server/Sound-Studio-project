@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: aada28242a344b62a1e3124fb94a8a12
+timeCreated: 1689574223
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 1
+  characterPadding: 0
+  includeFontData: 1
+  fontName: "ProximaNova-Bold"
+  fontNames:
+  - cpBurbankSmallBold
+  fallbackFontReferences: []
+  customCharacters:
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData:
+  assetBundleName: 
+  assetBundleVariant: 

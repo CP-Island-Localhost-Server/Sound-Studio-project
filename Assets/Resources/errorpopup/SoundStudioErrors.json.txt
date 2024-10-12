@@ -1,0 +1,14 @@
+{
+"0" : "companionapp.network.connection.error", 
+"1" : "companionapp.create.penguin.password.short",
+"2" : "companionapp.create.penguin.password.long",
+"3" : "companionapp.create.penguin.username.short",
+"401" : "companionapp.create.penguin.password.incorrect", 
+"403" : "companionapp.login.penguin.account.banned.temporary",
+"501" : "soundstudio.songs.sync.maxsync",
+"502" : "soundstudio.common.noconnection",
+"503" : "soundstudio.common.noconnection",
+"504" : "soundstudio.common.noconnection",
+"505" : "soundstudio.common.noconnection",
+"506" : "soundstudio.common.noconnection"
+}
